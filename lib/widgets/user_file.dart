@@ -11,13 +11,13 @@ class UserFile extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         centerTitle: true,
-        title: const Text('Тапшырма 04', style: TextStyle(fontSize: 25, color: Colors.black, fontWeight: FontWeight.bold),),
+        title: const Text('Тапшырма 04 Тапшырма 04', style: TextStyle(fontSize: 25, color: Colors.black, fontWeight: FontWeight.bold),),
       ),
       body: Container(
         color:const Color.fromARGB(255, 2, 96, 120),
         child: Center(
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisпшеAlignment.center,
             children:  [
               Container(
                 child: Image(image: image),
